@@ -1,4 +1,4 @@
-import PropTypes from 'proptyepes'
+import PropTypes from 'prop-types'
 
 export default function App({Component, pageProps}) {
   return <Component {...pageProps} />
